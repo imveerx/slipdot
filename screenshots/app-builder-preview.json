@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Slip",
+      "hasCanvas": false,
+      "bodyTextLen": 240,
+      "bodyTextHash": "184c3e6298fda7f5ab9f5e26a0fcb9c65479b34f39eb17ffdb705fe4e016e41a",
+      "bodyTextPrefix": "Slip Hand it across. Host a room, or join with a code or a scan.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Slip",
+      "hasCanvas": false,
+      "bodyTextLen": 240,
+      "bodyTextHash": "184c3e6298fda7f5ab9f5e26a0fcb9c65479b34f39eb17ffdb705fe4e016e41a",
+      "bodyTextPrefix": "Slip Hand it across. Host a room, or join with a code or a scan.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
